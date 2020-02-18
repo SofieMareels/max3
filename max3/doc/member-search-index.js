@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"max3","c":"Max3","l":"Max3()","url":"%3Cinit%3E()"},{"p":"max3","c":"Max3","l":"max3(int, int, int)","url":"max3(int,int,int)"}]
