@@ -8,7 +8,7 @@ public class Max3 {
 	 * @post The result equals one of the given numbers.
 	 * 		| result == i || result == j || result == k	
 	 * @post The result is not less than any of the given numbers.
-	 * 		|
+	 * 		|i <= result && j <= result && k <= result
 	 *  */
 
 	public static int max3(int i, int j, int k) {
